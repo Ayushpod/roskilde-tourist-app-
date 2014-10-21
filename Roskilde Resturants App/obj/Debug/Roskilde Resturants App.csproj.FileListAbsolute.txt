@@ -1,0 +1,47 @@
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\App.xbf
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\View\DetailedPage.xbf
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\View\MainPage.xbf
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\View\Resturant.xbf
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\View\SplashPage.xbf
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\Roskilde Resturants App.xr.xml
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\Roskilde Resturants App.exe
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\Roskilde Resturants App.pdb
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\resources.pri
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\AppxManifest.xml
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\Roskilde Resturants App.build.appxrecipe
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\App.g.i.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\App.g.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\DetailedPage.g.i.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\DetailedPage.g.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\MainPage.g.i.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\MainPage.g.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\Resturant.g.i.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\Resturant.g.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\SplashPage.g.i.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\SplashPage.g.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\App.xaml
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\DetailedPage.xaml
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\MainPage.xaml
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\Resturant.xaml
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\SplashPage.xaml
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\App.xbf
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\DetailedPage.xbf
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\MainPage.xbf
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\Resturant.xbf
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\View\SplashPage.xbf
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\Roskilde Resturants App.exe
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\Roskilde Resturants App.pdb
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\priconfig.xml
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\priconfig.xml.intermediate
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\layout.resfiles
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\layout.resfiles.intermediate
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\resources.resfiles
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\resources.resfiles.intermediate
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\pri.resfiles
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\pri.resfiles.intermediate
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\qualifiers.txt
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ayush's\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="ActualEvent" />
+    <RootPropertyPathName Name="ImagePath" />
+    <RootPropertyPathName Name="Price" />
+    <RootPropertyPathName Name="OpeningHour" />
+    <RootPropertyPathName Name="HeadLine" />
+    <RootPropertyPathName Name="Description" />
+    <RootPropertyPathName Name="NavigationHelper" />
+    <RootPropertyPathName Name="GoBackCommand" />
+    <RootPropertyPathName Name="DefaultViewModel" />
+    <RootPropertyPathName Name="Event3" />
+    <RootPropertyPathName Name="Event4" />
+    <RootPropertyPathName Name="Event2" />
+    <RootPropertyPathName Name="Event1" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Content" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Resources" />
+      <RootEvent Name="Loaded" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="ChildrenTransitions" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="ColumnDefinitions" />
+      <RootEvent Name="DoubleTapped" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.TransitionCollection" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.EntranceThemeTransition" />
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Roskilde_Resturants_App.ViewModel.MainViewModel" />
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="FontStyle" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Source" />
+      <RootProperty Name="Stretch" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="ElementName" />
+      <RootProperty Name="RelativeSource" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="DataContext" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Automation.AutomationProperties">
+      <RootMethod Name="GetName" />
+      <RootMethod Name="SetName" />
+      <RootMethod Name="GetAutomationId" />
+      <RootMethod Name="SetAutomationId" />
+      <RootMethod Name="GetItemType" />
+      <RootMethod Name="SetItemType" />
+    </RootType>
+    <RootType FullName="Roskilde_Resturants_App.View.DetailedPage" />
+    <RootType FullName="Roskilde_Resturants_App.View.MainPage" />
+    <RootType FullName="Windows.UI.Xaml.Data.RelativeSource" />
+    <RootType FullName="System.String" />
+    <RootType FullName="Roskilde_Resturants_App.View.Resturant" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressRing">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="IsActive" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Roskilde_Resturants_App.View.SplashPage" />
+  </Roots.RootTypes>
+</Roots>

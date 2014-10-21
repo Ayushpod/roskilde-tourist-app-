@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AYUSH</Machine>
+    <WindowsUser>ayush%27s</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>80c6c796-9257-41f6-9897-366e5706f1cc</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\Roskilde Resturants App.exe">
+      <PackagePath>Roskilde Resturants App.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\Assets\comwellhotel.jpg">
+      <PackagePath>Assets\comwellhotel.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\Assets\pindsenhotel.jpg">
+      <PackagePath>Assets\pindsenhotel.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\Assets\scandichotel.jpg">
+      <PackagePath>Assets\scandichotel.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\Assets\roskilderising-620x400.png">
+      <PackagePath>Assets\roskilderising-620x400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\Asssets\SplashScreen.scale-100.png">
+      <PackagePath>Asssets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\View\DetailedPage.xbf">
+      <PackagePath>View\DetailedPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\View\Resturant.xbf">
+      <PackagePath>View\Resturant.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\View\SplashPage.xbf">
+      <PackagePath>View\SplashPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\Roskilde Resturants App.xr.xml">
+      <PackagePath>Roskilde Resturants App.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Roskilde Resturants App\Roskilde Resturants App\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
